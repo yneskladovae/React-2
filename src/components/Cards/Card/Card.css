@@ -1,0 +1,10 @@
+.card {
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 1px 1px 5px black;
+    background: white;
+}
+
+.card h3 {
+    color: red;
+}
